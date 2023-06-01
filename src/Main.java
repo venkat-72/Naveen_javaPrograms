@@ -15,9 +15,7 @@ public class Main {
         }
         Male p=new Male();
         p.walk();
-        Student n=new Student();
-        n.getName();
-        n.setName("Venkat");
+
 
     }
 }
