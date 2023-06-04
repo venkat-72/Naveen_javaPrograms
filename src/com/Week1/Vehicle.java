@@ -1,4 +1,6 @@
- class Truck {
+package com.Week1;
+
+class Truck {
     void move(){
         System.out.println("Moving fast");
     }

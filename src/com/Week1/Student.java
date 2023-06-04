@@ -1,3 +1,5 @@
+package com.Week1;
+
 public class Student {
     public String name;
 

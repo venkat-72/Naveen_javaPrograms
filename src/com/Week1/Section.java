@@ -1,3 +1,5 @@
+package com.Week1;
+
 class Section extends Department{
     public void getDepartmentSize(){
         int size=200;

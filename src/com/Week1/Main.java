@@ -1,3 +1,5 @@
+package com.Week1;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
@@ -16,6 +18,13 @@ public class Main {
         Male p=new Male();
         p.walk();
 
+        Store money = new Store();
+        money.processMoney(9.99);
+        money.sendNotify("money sent");
+
+
+        Bike b = new Bike("Tesla" , "BMW 1250");
+        Bike b1 = new Bike("kawasaki");
 
     }
 }

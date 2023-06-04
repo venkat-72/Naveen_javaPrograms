@@ -1,3 +1,5 @@
+package com.Week1;
+
 public class Person {
     int age;
     float weight;
