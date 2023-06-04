@@ -25,6 +25,12 @@ public class Main {
 
         Bike b = new Bike("Tesla" , "BMW 1250");
         Bike b1 = new Bike("kawasaki");
+        System.out.println(Sample.value);
+
+
+        Finalclass val= new Finalclass();
+        val.finalMethod();
+
 
     }
 }
