@@ -13,13 +13,12 @@ public class Product {
     public double getPrice(int qunatity) {
         return price*qunatity;
     }
-    public static void main(String[] args){
-        Product p =new Product();
-       p.setPrice(5.5);
-        System.out.println(p.getPrice());
-        System.out.println(p.getPrice(5));
-
-    }
+//    public static void main(String[] args){
+//        Product p =new Product();
+//        p.setPrice(5.5);
+//        System.out.println(p.getPrice());
+//        System.out.println(p.getPrice(5));
+//    }
 
 }
 

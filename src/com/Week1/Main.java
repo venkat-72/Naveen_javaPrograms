@@ -18,6 +18,17 @@ public class Main {
         Male p=new Male();
         p.walk();
 
+        Truck c = new Truck();
+        Truck m = new Car();
+        c.move();
+        m.move();
+
+
+        Product price =new Product();
+        price.setPrice(5.5);
+        System.out.println(price.getPrice());
+        System.out.println(price.getPrice(5));
+
         Store money = new Store();
         money.processMoney(9.99);
         money.sendNotify("money sent");
@@ -25,6 +36,8 @@ public class Main {
 
         Bike b = new Bike("Tesla" , "BMW 1250");
         Bike b1 = new Bike("kawasaki");
+
+
         System.out.println(Sample.value);
 
 
