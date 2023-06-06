@@ -31,4 +31,4 @@ bin/
 /src/*.class
 *.iml
 out/
-\src\com\Week2\Day01\*.class
+\src\com\Week2\*.class
