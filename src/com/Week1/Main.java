@@ -23,6 +23,9 @@ public class Main {
         c.move();
         m.move();
 
+        Section s=new Section();
+        s.getDepartmentSize();
+
 
         Product price =new Product();
         price.setPrice(5.5);

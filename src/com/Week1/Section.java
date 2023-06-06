@@ -5,9 +5,9 @@ class Section extends Department{
         int size=200;
         System.out.println(size);
     }
-public static void main(String[] args){
-    Section s=new Section();
-    s.getDepartmentSize();
-}
+//public static void main(String[] args){
+//    Section s=new Section();
+//    s.getDepartmentSize();
+//}
 
 }
