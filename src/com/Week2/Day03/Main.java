@@ -13,11 +13,11 @@ public class Main {
         String splitBy = ",";
         Studentdata[] studentdata=new Studentdata[10];
         try {
-//parsing a CSV file into BufferedReader class constructor
+
             BufferedReader br = new BufferedReader(new FileReader("/C:/Users/DELL/Downloads/Studentdata.csv"));
             int i=0;
             line = br.readLine();
-            while ((line = br.readLine()) != null)   //returns a Boolean value
+            while ((line = br.readLine()) != null)
             {
                 String[] student = line.split(splitBy);
 
