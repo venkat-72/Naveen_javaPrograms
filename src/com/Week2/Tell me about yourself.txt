@@ -1,0 +1,26 @@
+Q1. Intro: tell me about yourself 
+
+I am Naveen, currently working as a Full Stack Developer at Randolph Brooks Federal Credit Union. I have 10 years of professional experience in software application development, testing, maintenance, and production support. As a full-stack developer, my primary backend language is Java, and I utilize frameworks such as Spring and Spring Boot. For frontend development, I am proficient in Angular, React, HTML, and CSS. I also have experience working with various visualization libraries to create interactive dashboards. In terms of databases, I have expertise in both SQL and NoSQL databases, including MongoDB. I am well-versed in CI/CD tools for efficient deployment processes and have extensive knowledge of AWS services for infrastructure setup and deployment operations. In my career, I have gained experience in the banking, insurance, and finance domains. Currently, I am working on a money movement platform at Randolph Brooks Federal Credit Union, where I have been a Full Stack Developer for 3 years and 5 months.
+
+
+Q2. Tell me about your recent project
+
+I have been a Full Stack Developer at Randolph Brooks Federal Credit Union for 3 years and 5 months.  I am working on their money movement platform, which facilitates the transfer of funds to and from bank accounts. We supported various programs, including ACH, Overdraft, Bill Pay, and Instant Funding, offering users options based on transfer speed, cost, and type.
+
+As part of my responsibilities, I actively participated in the migration process from a legacy monolithic architecture to a microservices-based architecture. We containerized most of the newer services using Docker and orchestrated these Docker images through Kubernetes. Our current project extensively utilizes the AWS cloud platform, and I have gained experience working with a wide range of AWS service offerings.
+
+Throughout this project and my role, we followed Test-Driven Development (TDD) and Behavior-Driven Development (BDD) methodologies. We focused on creating automated tests to ensure the reliability and quality of our software. Additionally, we embraced Agile practices to promote collaboration, flexibility, and iterative development.
+
+In terms of technologies, we utilized Java 8, Spring Boot 2.x, Angular 11, Jira for project management, REST API for communication, and a combination of SQL and NoSQL databases, including MongoDB, to handle data storage. Furthermore, we adopted microservices architecture to design and develop modular, independent services.
+
+Overall, my experience at Randolph Brooks Federal Credit Union involved working on their money movement platform, migrating to a microservices architecture, and utilizing technologies such as Java 8, Spring Boot 2.x, Angular 11, Jira, REST API, Kubernetes, Docker, SQL and NoSQL databases (including MongoDB), and microservices.
+
+
+
+
+
+
+
+
+
+
