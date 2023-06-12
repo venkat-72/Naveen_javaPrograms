@@ -20,9 +20,9 @@ public class Studentdata implements Comparable {
     {
 
         // Print and display the productID and product name
-        System.out.print(firstName+","+lastName+","+gpa);
+        System.out.println(firstName+","+lastName+","+gpa);
 
-        System.out.println();
+
     }
 
 
