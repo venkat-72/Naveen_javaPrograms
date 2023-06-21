@@ -5,6 +5,7 @@ public class Students {
     private String LN;
     private double GPA;
 
+
     public Students(String FN, String LN, double GPA) {
         this.FN = FN;
         this.LN = LN;
@@ -22,5 +23,14 @@ public class Students {
     public double getGPA() {
         return GPA;
         }
+    @Override
+    public String toString() {
+        return "Students{" +
+                "FN='" + FN + '\'' +
+                ", LN='" + LN + '\'' +
+                ", GPA=" + GPA +
+                '}';
     }
+
+}
 
